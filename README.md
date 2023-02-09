@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi, I'm Churchill👋
+- I'm a journalist and ***beginner*** in web-development, based in Germany.
+- I'm looking to experience and share my coding journey, and learn even more!
+- Skills thus far; GitHub and Markup
+
+Current project;
+- Working on my own website
 
 <!--
 **Churchill6/Churchill6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
